@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/price-calculator/static/css/main.91b6221a.chunk.css",
+    "main.js": "/price-calculator/static/js/main.2af03648.chunk.js",
+    "main.js.map": "/price-calculator/static/js/main.2af03648.chunk.js.map",
+    "runtime-main.js": "/price-calculator/static/js/runtime-main.99758b03.js",
+    "runtime-main.js.map": "/price-calculator/static/js/runtime-main.99758b03.js.map",
+    "static/js/2.c308eee2.chunk.js": "/price-calculator/static/js/2.c308eee2.chunk.js",
+    "static/js/2.c308eee2.chunk.js.map": "/price-calculator/static/js/2.c308eee2.chunk.js.map",
+    "index.html": "/price-calculator/index.html",
+    "precache-manifest.78c7efea11e4833a42090dea5941524f.js": "/price-calculator/precache-manifest.78c7efea11e4833a42090dea5941524f.js",
+    "service-worker.js": "/price-calculator/service-worker.js",
+    "static/css/main.91b6221a.chunk.css.map": "/price-calculator/static/css/main.91b6221a.chunk.css.map",
+    "static/js/2.c308eee2.chunk.js.LICENSE": "/price-calculator/static/js/2.c308eee2.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99758b03.js",
+    "static/js/2.c308eee2.chunk.js",
+    "static/css/main.91b6221a.chunk.css",
+    "static/js/main.2af03648.chunk.js"
+  ]
+}
